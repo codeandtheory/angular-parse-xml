@@ -1,0 +1,25 @@
+<table class="table table-bordered table-hover">    
+  <thead>
+  <tr>    
+    <th>Company Number</th>    
+    <th>Subject Number</th>    
+    <th>Telephone Areacode</th>    
+    <th>Telephone Number</th>    
+    <th>Comm Address Line</th>    
+    <th>Comm Address City</th>    
+     
+  </tr>    
+  </thead>
+  <tbody>
+  <tr *ngFor="let item of xmlItems">    
+    <td>{{item.companyNumber}}</td>    
+    <td>{{item.subjectNumber}}</td>    
+    <td>{{item.telephoneAreacode}}</td>    
+    <td>{{item.telephoneNumber}}</td>    
+    <td>{{item.commAddressLine}}</td>    
+    <td>{{item.commAddressCity}}</td>    
+   
+  </tr>    
+
+</tbody>
+</table>  

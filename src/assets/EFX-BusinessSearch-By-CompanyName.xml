@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EfxTransmit xmlns="http://www.equifax.ca/XMLSchemas/EfxToCust" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.equifax.ca/XMLSchemas/EfxToCust http://www.equifax.ca/XMLSchemas/UAT/CNEfxTransmitToCust.xsd" >
+    <EfxReport requestNumber="1" reportId="CNCOMMERCIALMULTIPLE">
+        <CNCommercialMultiples commercialHitIndicator="HIT">
+            <CNCommercialMultiple companyNumber="0092825345" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0092825345</CompanyNumber>
+                    <SubjectNumber>CEE787</SubjectNumber>
+                    <Name>TARGET PARK GROUP INC.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>425-7275</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>525 KING ST W</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1K4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0098260501</CompanyNumber>
+                    <SubjectNumber>DAU891</SubjectNumber>
+                    <Name>TARGET PARK MANAGEME</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>425-7275</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>525 KING ST W</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1K4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0122122204</CompanyNumber>
+                    <SubjectNumber>GVE138</SubjectNumber>
+                    <Name>TARGET PARK (ORANGE P.) INC</Name>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>525 KING ST W</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1K4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0132525145</CompanyNumber>
+                    <SubjectNumber>JLP860</SubjectNumber>
+                    <Name>TARGET PARK SERVICES NO.1 INC</Name>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>525 KING ST W SUITE 300</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1K4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0134384867</CompanyNumber>
+                    <SubjectNumber>JTQ924</SubjectNumber>
+                    <Name>TARGET PARK GROUP INC. / TARGET PARK GROUP INC.</Name>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>318 WELLINGTON ST W</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V3T4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0143895580</CompanyNumber>
+                    <SubjectNumber>LFR537</SubjectNumber>
+                    <Name>TARGET PARK GROUP INC.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>425-7275</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>425-7274</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>550 BAYVIEW AVE  SUITE 405</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M4W3X8</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0144629418</CompanyNumber>
+                    <SubjectNumber>LJL248</SubjectNumber>
+                    <Name>TARGET PARK GROUP INC</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>647</AreaCode>
+                            <Number>700-8903</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>550 BAYVIEW AVE  SUITE 405</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M4W3X8</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0146288774</CompanyNumber>
+                    <SubjectNumber>LQT098</SubjectNumber>
+                    <Name>TARGET PARK (NO. 12) INC</Name>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>525 KING ST W</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1K4</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0092825345" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0156422061</CompanyNumber>
+                    <SubjectNumber>NFC307</SubjectNumber>
+                    <Name>TARGET PARK GROUP INC.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>425-7275</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>370 KING ST W SUITE 702</Line>
+                    </Lines>
+                    <City>TORONTO</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M5V1J9</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0008163537</CompanyNumber>
+                    <SubjectNumber>024172</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3619</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>8535 EASTLAKE DR</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A4T7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0006239129</CompanyNumber>
+                    <SubjectNumber>V67644</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD./AN ALBERTA COMPANY</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>7550 CONRAD STREET</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A2H7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0028923813</CompanyNumber>
+                    <SubjectNumber>FA3558</SubjectNumber>
+                    <Name>TARGET CONCRETE PRODUCTS</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>7550 CONRAD ST</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A2H7</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0043496255</CompanyNumber>
+                    <SubjectNumber>LN8323</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3610</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>7550 CONRAD STREET</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A2H7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0050383652</CompanyNumber>
+                    <SubjectNumber>PD4450</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3610</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3620</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>7550 CONRAD ST</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A2H7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008163537" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0064468480</CompanyNumber>
+                    <SubjectNumber>UM4889</SubjectNumber>
+                    <Name>TARGET PRODUCTS</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>800</AreaCode>
+                            <Number>575-7700</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>604</AreaCode>
+                            <Number>420-3610</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>7550 CONRAD STREET</Line>
+                    </Lines>
+                    <City>BURNABY</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V5A2H7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0089010454" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0089010454</CompanyNumber>
+                    <SubjectNumber>BPT977</SubjectNumber>
+                    <Name>TARGET HEALTH LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>247-6245</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>5111 NORTHLAND DR NW SUITE 235</Line>
+                    </Lines>
+                    <City>CALGARY</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T2L2J8</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0089010454" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0096544650</CompanyNumber>
+                    <SubjectNumber>CUG906</SubjectNumber>
+                    <Name>TRAGET FITNESS LTD</Name>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>19 BERWICK PL NW</Line>
+                    </Lines>
+                    <City>CALGARY</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T3K1C6</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0089010454" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0101211088</CompanyNumber>
+                    <SubjectNumber>DMZ126</SubjectNumber>
+                    <Name>TARGET HEALTH 2011 LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>247-6245</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>286-8893</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>4612 BOWNESS RD NW SUITE A</Line>
+                    </Lines>
+                    <City>CALGARY</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T3B0B3</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0074414753" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0074414753</CompanyNumber>
+                    <SubjectNumber>YF9096</SubjectNumber>
+                    <Name>TARGET SPORTS CENTRE</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>905</AreaCode>
+                            <Number>888-8288</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>905</AreaCode>
+                            <Number>888-8688</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>14 STALWART INDUSTRIAL DR</Line>
+                    </Lines>
+                    <City>GORMLEY</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>L0H1G0</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0074414753" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0094880831</CompanyNumber>
+                    <SubjectNumber>CMZ650</SubjectNumber>
+                    <Name>TARGET SPORTS CANADA</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>905</AreaCode>
+                            <Number>888-8288</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>905</AreaCode>
+                            <Number>888-8688</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>PO BOX 639</Line>
+                    </Lines>
+                    <City>GORMLEY</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>L0H1G0</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0074414753" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0110912927</CompanyNumber>
+                    <SubjectNumber>FAT112</SubjectNumber>
+                    <Name>TARGET SPORTS CANADA</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>905</AreaCode>
+                            <Number>888-8288</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>14 STALWART INDUSTRIAL DR</Line>
+                    </Lines>
+                    <City>BETHESDA</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>L0H1G0</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0042078301" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0042078328</CompanyNumber>
+                    <SubjectNumber>KZ9419</SubjectNumber>
+                    <Name>TARGET TRANSPORT</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>450</AreaCode>
+                            <Number>447-3503</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>450</AreaCode>
+                            <Number>447-3948</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>25 RUE LOISELLE</Line>
+                    </Lines>
+                    <City>RICHELIEU</City>
+                    <Province code="QC" description="QUEBEC" />
+                    <PostalCode>J3L6S7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0042078301" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0046445554</CompanyNumber>
+                    <SubjectNumber>MR6440</SubjectNumber>
+                    <Name>TARGET TRANSPORT INC.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>514</AreaCode>
+                            <Number>232-9073</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>25 RUE LOISELLE</Line>
+                    </Lines>
+                    <City>RICHELIEU</City>
+                    <Province code="QC" description="QUEBEC" />
+                    <PostalCode>J3L6S7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0079830321" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0079830321</CompanyNumber>
+                    <SubjectNumber>ACZ422</SubjectNumber>
+                    <Name>TARGET INDUSTRIES LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>785-3123</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>785-3123</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>SS 2 LCD MAIN</Line>
+                    </Lines>
+                    <City>FORT ST. JOHN</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V1J4M7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0079830321" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0084752460</CompanyNumber>
+                    <SubjectNumber>AXQ887</SubjectNumber>
+                    <Name>TARGET INDUSTRIES LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>262-8775</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>785-3123</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>SS 2 LCD MAIN</Line>
+                    </Lines>
+                    <City>FORT ST. JOHN</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V1J4M7</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0008382441" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0008382441</CompanyNumber>
+                    <SubjectNumber>091553</SubjectNumber>
+                    <Name>TARGET PETROLEUM INC</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>451-3290</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>451-3480</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>16447-117 AVE</Line>
+                    </Lines>
+                    <City>EDMONTON</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T5M3V3</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0001256890" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0001256890</CompanyNumber>
+                    <SubjectNumber>E43115</SubjectNumber>
+                    <Name>TARGET TRANSPORT SERVICES LIMITED</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>561-1200</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>250</AreaCode>
+                            <Number>561-0750</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>BOX 1178 STATION &quot;A&quot; 9390 ROCK ISLAND RD</Line>
+                    </Lines>
+                    <City>PRINCE GEORGE</City>
+                    <Province code="BC" description="BRITISH COLUMBIA" />
+                    <PostalCode>V2L4V2</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0001375415" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0001375415</CompanyNumber>
+                    <SubjectNumber>E92820</SubjectNumber>
+                    <Name>TARGET BUILDING MATERIALS LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>519</AreaCode>
+                            <Number>966-6000</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>519</AreaCode>
+                            <Number>966-3053</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>3245 COUNTY RD. 42</Line>
+                    </Lines>
+                    <City>WINDSOR</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>N9A6J3</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0005402786" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0005402786</CompanyNumber>
+                    <SubjectNumber>T85314</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>279-8189</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>279-4829</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>4440 76 AVENUE S.E., SUITE #1</Line>
+                    </Lines>
+                    <City>CALGARY</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T2C2J2</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0007108591" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0007108591</CompanyNumber>
+                    <SubjectNumber>X64454</SubjectNumber>
+                    <Name>TARGETT&apos;S WINDOW &amp; DOOR CENTRE &amp; B/S</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>506</AreaCode>
+                            <Number>459-3336</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>808 ST. MARYS STREET</Line>
+                    </Lines>
+                    <City>FREDERICTON</City>
+                    <Province code="NB" description="NEW BRUNSWICK" />
+                    <PostalCode>E3B4X8</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0009160906" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0009160906</CompanyNumber>
+                    <SubjectNumber>312132</SubjectNumber>
+                    <Name>TARGET MARKETING LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>902</AreaCode>
+                            <Number>752-4222</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>BOX 1000</Line>
+                    </Lines>
+                    <City>STELLARTON</City>
+                    <Province code="NS" description="NOVA SCOTIA" />
+                    <PostalCode>B0K1S0</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0005402786" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0010520703</CompanyNumber>
+                    <SubjectNumber>487340</SubjectNumber>
+                    <Name>TARGET PRODUCTS LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>279-8189</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>279-4829</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>4440 - 76TH AVE. S.E.</Line>
+                    </Lines>
+                    <City>CALGARY</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T2C2J2</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0013083088" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0013083088</CompanyNumber>
+                    <SubjectNumber>684318</SubjectNumber>
+                    <Name>TARGET NABTECH INC.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>665-6239</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>739-5423</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>620 SUPERTEST ROAD, #16</Line>
+                    </Lines>
+                    <City>DOWNSVIEW</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>M3J2M8</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0014720243" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0014720243</CompanyNumber>
+                    <SubjectNumber>833951</SubjectNumber>
+                    <Name>TARGETWEST MARKETING LTD.</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>306</AreaCode>
+                            <Number>565-3808</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>306</AreaCode>
+                            <Number>565-3961</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>1628 QUEBEC STREET</Line>
+                    </Lines>
+                    <City>REGINA</City>
+                    <Province code="SK" description="SASKATCHEWAN" />
+                    <PostalCode>S4P1J2</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0007108591" relationType="A">
+                <CompanyId>
+                    <CompanyNumber>0017800000</CompanyNumber>
+                    <SubjectNumber>AV3929</SubjectNumber>
+                    <Name>TARGETT&apos;S WIND &amp; DOOR CTRE</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>506</AreaCode>
+                            <Number>444-8777</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>506</AreaCode>
+                            <Number>444-8770</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>808 ST MARYS ST</Line>
+                    </Lines>
+                    <City>FREDERICTON</City>
+                    <Province code="NB" description="NEW BRUNSWICK" />
+                    <PostalCode>E3A5J8</PostalCode>
+                    <Country code="CA" description="CANADA" />
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0017804065" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0017804065</CompanyNumber>
+                    <SubjectNumber>AV4299</SubjectNumber>
+                    <Name>TARGET PRODUCT&apos;S LTD</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>939-3033</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>403</AreaCode>
+                            <Number>939-3044</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>9503 - 87 AVENUE</Line>
+                    </Lines>
+                    <City>MORINVILLE</City>
+                    <Province code="AB" description="ALBERTA" />
+                    <PostalCode>T8R1K6</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0103855519" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0103855519</CompanyNumber>
+                    <SubjectNumber>DXZ529</SubjectNumber>
+                    <Name>TARGET CANADA</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>289</AreaCode>
+                            <Number>261-0000</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                    <Fax>
+                        <ParsedTelephone>
+                            <AreaCode>289</AreaCode>
+                            <Number>261-1601</Number>
+                        </ParsedTelephone>
+                    </Fax>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>5570 EXPLORER DR</Line>
+                    </Lines>
+                    <City>MISSISSAUGA</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>L4W0C4</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00003</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+            <CNCommercialMultiple companyNumber="0000528943" relationType="P">
+                <CompanyId>
+                    <CompanyNumber>0000528943</CompanyNumber>
+                    <SubjectNumber>B48952</SubjectNumber>
+                    <Name>TARGIT INTERNATIONAL</Name>
+                    <Telephone>
+                        <ParsedTelephone>
+                            <AreaCode>416</AreaCode>
+                            <Number>495-2626</Number>
+                        </ParsedTelephone>
+                    </Telephone>
+                </CompanyId>
+                <CommAddress>
+                    <Lines>
+                        <Line>96 STEELCASE ROAD W,.</Line>
+                    </Lines>
+                    <City>MARKHAM</City>
+                    <Province code="ON" description="ONTARIO" />
+                    <PostalCode>L3R3J9</PostalCode>
+                </CommAddress>
+                <ConfidenceLevelIndicator>00002</ConfidenceLevelIndicator>
+            </CNCommercialMultiple>
+        </CNCommercialMultiples>
+    </EfxReport>
+</EfxTransmit>
