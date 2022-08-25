@@ -1,10 +1,10 @@
-import { EventEmitter, Injectable, Output } from '@angular/core';
+import { Injectable } from '@angular/core';
 import { HttpClient,HttpHeaders } from '@angular/common/http';
 import xml2js from 'xml2js'; 
 import { Observable, Subject } from 'rxjs';
 
 @Injectable({ providedIn: 'root' })
-export class ApiService {
+export class ApiXMLService {
 
     constructor(private http:HttpClient) { 
       this.loadXML(); 
@@ -27,15 +27,15 @@ export class ApiService {
               this.xmlItems.next(data);
             });  
         });  
-        console.log(this.xmlItems);
+        
         return this.xmlItems.asObservable();
     }
 
     parseXML(data) {  
       return new Promise(resolve => {  
-        var k: string | number,  
-          arr = [],  
-          parser = new xml2js.Parser(  
+          let k: string | number;
+          let arr = [];
+          let parser = new xml2js.Parser(  
             {  
               trim: true,  
               explicitArray: true  

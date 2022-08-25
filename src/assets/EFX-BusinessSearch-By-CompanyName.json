@@ -1,0 +1,166 @@
+{
+    "EfxTransmit" : [
+        {
+            "EfxReport" : [
+                {
+                    "CNCommercialMultiples" : [
+                        {
+                            "CNCommercialMultiple" : [
+                                {
+                                    "CompanyId" : [
+                                        {
+                                            "CompanyNumber" : "0092825345",
+                                            "SubjectNumber" : "CEE787",
+                                            "Name" : "TARGET PARK GROUP INC.",
+                                            "Telephone" : [{
+                                                "ParsedTelephone" : [{
+                                                    "AreaCode" : "416",
+                                                    "Number" : "425-7275"
+                                                }]
+                                            }]
+                                        }
+                                    ],
+                                    "CommAddress" : [{
+                                        "Lines" : [{
+                                            "Line" : "525 KING ST W"
+                                        }],
+                                        "City" : "TORONTO",
+                                        "Province" : [{
+                                            "Code" : "ON",
+                                            "Description" : "ONTARIO"
+                                        }],
+                                        "PostalCode" : "M5V1K4",
+                                        "Country" : [{
+                                            "Code" : "CA",
+                                            "Description" : "CANADA"
+                                        }]
+                                    }]
+                                },
+                                {
+                                    "CompanyId" : [
+                                        {
+                                            "CompanyNumber" : "0092825345",
+                                            "SubjectNumber" : "CEE787",
+                                            "Name" : "TARGET PARK GROUP INC.",
+                                            "Telephone" : [{
+                                                "ParsedTelephone" : [{
+                                                    "AreaCode" : "416",
+                                                    "Number" : "425-7275"
+                                                }]
+                                            }]
+                                        }
+                                    ],
+                                    "CommAddress" : [{
+                                        "Lines" : [{
+                                            "Line" : "525 KING ST W"
+                                        }],
+                                        "City" : "TORONTO",
+                                        "Province" : [{
+                                            "Code" : "ON",
+                                            "Description" : "ONTARIO"
+                                        }],
+                                        "PostalCode" : "M5V1K4",
+                                        "Country" : [{
+                                            "Code" : "CA",
+                                            "Description" : "CANADA"
+                                        }]
+                                    }]
+                                },
+                                {
+                                    "CompanyId" : [
+                                        {
+                                            "CompanyNumber" : "0092825345",
+                                            "SubjectNumber" : "CEE787",
+                                            "Name" : "TARGET PARK GROUP INC.",
+                                            "Telephone" : [{
+                                                "ParsedTelephone" : [{
+                                                    "AreaCode" : "416",
+                                                    "Number" : "425-7275"
+                                                }]
+                                            }]
+                                        }
+                                    ],
+                                    "CommAddress" : [{
+                                        "Lines" : [{
+                                            "Line" : "525 KING ST W"
+                                        }],
+                                        "City" : "TORONTO",
+                                        "Province" : [{
+                                            "Code" : "ON",
+                                            "Description" : "ONTARIO"
+                                        }],
+                                        "PostalCode" : "M5V1K4",
+                                        "Country" : [{
+                                            "Code" : "CA",
+                                            "Description" : "CANADA"
+                                        }]
+                                    }]
+                                },
+                                {
+                                    "CompanyId" : [
+                                        {
+                                            "CompanyNumber" : "0092825345",
+                                            "SubjectNumber" : "CEE787",
+                                            "Name" : "TARGET PARK GROUP INC.",
+                                            "Telephone" : [{
+                                                "ParsedTelephone" : [{
+                                                    "AreaCode" : "416",
+                                                    "Number" : "425-7275"
+                                                }]
+                                            }]
+                                        }
+                                    ],
+                                    "CommAddress" : [{
+                                        "Lines" : [{
+                                            "Line" : "525 KING ST W"
+                                        }],
+                                        "City" : "TORONTO",
+                                        "Province" : [{
+                                            "Code" : "ON",
+                                            "Description" : "ONTARIO"
+                                        }],
+                                        "PostalCode" : "M5V1K4",
+                                        "Country" : [{
+                                            "Code" : "CA",
+                                            "Description" : "CANADA"
+                                        }]
+                                    }]
+                                },
+                                {
+                                    "CompanyId" : [
+                                        {
+                                            "CompanyNumber" : "0092825345",
+                                            "SubjectNumber" : "CEE787",
+                                            "Name" : "TARGET PARK GROUP INC.",
+                                            "Telephone" : [{
+                                                "ParsedTelephone" : [{
+                                                    "AreaCode" : "416",
+                                                    "Number" : "425-7275"
+                                                }]
+                                            }]
+                                        }
+                                    ],
+                                    "CommAddress" : [{
+                                        "Lines" : [{
+                                            "Line" : "525 KING ST W"
+                                        }],
+                                        "City" : "TORONTO",
+                                        "Province" : [{
+                                            "Code" : "ON",
+                                            "Description" : "ONTARIO"
+                                        }],
+                                        "PostalCode" : "M5V1K4",
+                                        "Country" : [{
+                                            "Code" : "CA",
+                                            "Description" : "CANADA"
+                                        }]
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+ }

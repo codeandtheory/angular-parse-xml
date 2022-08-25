@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { ApiService } from './services/api.service';
+import { ApiXMLService } from './services/api-xml.service';
+import { ApiJSONService } from './services/api-json.service';
 import { Input } from '@angular/core';
 
 @Component({
@@ -9,16 +10,22 @@ import { Input } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   
-  
   xmlData: any;
+  jsonData: any;
 
-  constructor( public apiService: ApiService ){
+  constructor( public apiXMLService: ApiXMLService, public apiJSONService: ApiJSONService ){
 
   } 
   
   ngOnInit(): void {
-    this.apiService.loadXML();
-    this.apiService.xmlItems.subscribe(data => this.xmlData = data);
+    // Load XML
+    this.apiXMLService.loadXML();
+    this.apiXMLService.xmlItems.subscribe(data => this.xmlData = data);
+
+    // Load JSON
+    this.apiJSONService.loadJSON();
+    this.apiJSONService.jsonItems.subscribe(data => this.jsonData = data);
+    console.log(this.jsonData);
   }
 
 }
