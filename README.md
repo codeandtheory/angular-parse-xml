@@ -1,9 +1,12 @@
-#Demo for fetching data from XML file
+**Demo for fetching data from XML file**
+
 Include `services/api-xml.service.ts` in component to get XML data as Observable
 Include `services/api-json.service.ts` in component to get JSON data as Observable
 
-#app.component.ts
-#XML
+**app.component.ts**
+
+**XML**
+
 run the loadXML function from the API Service to populate the table
 get the data by subscribing to the Observable subject `xmlItems` from the service
 ```
@@ -22,7 +25,8 @@ Loop through data to display in the component.html
 </tr>  
   ```
   
-#JSON
+**JSON**
+
 run the loadJSON function from the API Service to populate the table
 get the data by subscribing to the Observable subject `jsonItems` from the service
 ```
